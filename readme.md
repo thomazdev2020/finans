@@ -1,0 +1,1 @@
+Autro Thomaz Santosgit remote add origin https://github.com/thomazdev2020/finans.git
